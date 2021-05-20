@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Tạo nhóm"
+        android:id="@+id/mNhom"/>
+    <item android:title="Thêm bạn"
+        android:id="@+id/mBan"/>
+    <item android:title="Lịch sử đăng nhập"
+        android:id="@+id/mLichSu"/>
+    <item android:title="Lịch Zalo"
+        android:id="@+id/mLich"/>
+    <item android:title="Truyền File"
+        android:id="@+id/mFile"/>
+    <item android:title="Tạo cuộc gọi nhóm"
+        android:id="@+id/mGoiNhom"/>
+</menu>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="message"
+        android:icon="@drawable/ic_message"
+        android:id="@+id/mMessage"/>
+    <item android:title="phonebook"
+        android:icon="@drawable/ic_phonebook"
+        android:id="@+id/mPhonebook"/>
+    <item android:title="diary"
+        android:icon="@drawable/ic_notebook"
+        android:id="@+id/mNotebook"/>
+    <item android:title="add"
+        android:icon="@drawable/ic_add"
+        android:id="@+id/mAdd"/>
+</menu>
